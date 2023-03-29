@@ -1,0 +1,39 @@
+.top{
+	height:150px;
+	background-color:yellow;
+
+}
+
+.leftcol{
+	
+background-color:#F1948A;	
+float:left;
+width:10%;
+height:500px;
+}
+
+
+
+.middlecol{
+       	
+background-color:white;
+float:left;
+width:500px;
+width:60%;	
+	
+}
+
+.rightcol{
+	
+background-color:#F1948A;
+width:30%;
+float:left;
+height:500px;	
+	
+}
+
+.bottom{
+	
+	height:50px;
+	background-color:#2C3E50;
+}
